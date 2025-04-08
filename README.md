@@ -5,7 +5,9 @@ Version 1.0.2
 ## Overview
 300plus is a comprehensive educational platform designed for secondary school UTME students, offering structured courses in various subjects. The platform provides an interactive learning environment with course materials, practice problems, quizzes, and examinations.
 
-**Live URL (Version 1.0.1):** [https://300plus.great-site.net/](https://300plus.great-site.net/)
+**Live URL(Version 1.0.1):** [https://300plus.great-site.net/](https://300plus.great-site.net/)
+
+![300plus Platform Screenshot](https://i.ibb.co/8nNng9VP/Screenshot-2025-04-08-032246.png)
 
 ## Project Structure
 
